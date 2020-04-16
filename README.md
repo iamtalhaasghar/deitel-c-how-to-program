@@ -1,0 +1,1 @@
+This repo contains the Solutions of the book Deitel C How To program 8th Ed.
